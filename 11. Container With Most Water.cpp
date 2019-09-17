@@ -5,11 +5,7 @@
 #include<vector>
 #include<algorithm>
 #include <iostream>
-using namespace std;
-int main()
-{
-	return 0;
-}
+using namespace std; 
 
 //暴力搜索法+基本减枝
 class Solution {
