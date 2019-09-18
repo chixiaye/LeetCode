@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="22. Generate Parentheses.cpp">
+    <ClCompile Include="17. Letter Combinations of a Phone Number.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
