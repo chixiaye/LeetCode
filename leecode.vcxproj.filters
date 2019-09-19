@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="17. Letter Combinations of a Phone Number.cpp">
+    <None Include="3. Longest Substring Without Repeating Characters.cpp">
       <Filter>源文件</Filter>
-    </ClCompile>
+    </None>
   </ItemGroup>
 </Project>
