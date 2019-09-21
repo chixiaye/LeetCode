@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="3. Longest Substring Without Repeating Characters.cpp">
+    <ClCompile Include="5. Longest Palindromic Substring.cpp">
       <Filter>源文件</Filter>
-    </None>
+    </ClCompile>
   </ItemGroup>
 </Project>
